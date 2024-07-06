@@ -1,2 +1,0 @@
- Python 3.x
- gtts==2.2.3(use: pip install gtts )
