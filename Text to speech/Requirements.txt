@@ -1,2 +1,1 @@
- Python 3.x
- gtts==2.2.3
+gtts==2.2.3
